@@ -1,0 +1,25 @@
+{
+  "contributions": [],
+  "people": [
+    {
+      "affiliation": "University of Washington",
+      "author": true,
+      "curator": true,
+      "github": "muratmaga",
+      "github_id": null,
+      "name": "Maga, A. Murat",
+      "orcid": "0000-0002-7921-9018",
+      "source": "member"
+    },
+    {
+      "affiliation": "Seattle Children's Research Institute",
+      "author": true,
+      "github": null,
+      "name": "Roston, Rachel",
+      "orcid": "0000-0002-1958-4849",
+      "source": "offline"
+    }
+  ],
+  "repo": "MorphoDepot/mus-musculus-E15",
+  "schema": "morphodepot-contributors/1"
+}
